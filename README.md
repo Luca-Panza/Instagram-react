@@ -14,7 +14,7 @@
 
 This project is a recreation of the Instagram interface using the React library. It allows users to interact with posts through features such as changing profile image/name, liking and saving.
 
-Deployment on Vercel: <a href="https://instagram-react-beta.vercel.app/" target="_blank">Hangman</a>
+Deployment on Vercel: <a href="https://instagram-react-beta.vercel.app/" target="_blank">Instagram React</a>
 
 ***
 
