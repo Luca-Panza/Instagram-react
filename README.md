@@ -6,13 +6,15 @@
 
 <p align = "center">
    <img src="https://img.shields.io/badge/author-Luca_Panza-4dae71?style=flat-square" />
-   <img src="https://img.shields.io/github/languages/count/Luca-Panza/projeto7-instagramreact?color=4dae71&style=flat-square" />
+   <img src="https://img.shields.io/github/languages/count/Luca-Panza/Instagram-react?color=4dae71&style=flat-square" />
 </p>
 
 
 ##  :clipboard: Description
 
-(Driven Bootcamp Project) This project is a recreation of the Instagram interface using the React library. It allows users to interact with posts through features such as changing profile image/name, liking and saving.
+This project is a recreation of the Instagram interface using the React library. It allows users to interact with posts through features such as changing profile image/name, liking and saving.
+
+Deployment on Vercel: <a href="https://instagram-react-beta.vercel.app/" target="_blank">Hangman</a>
 
 ***
 
@@ -27,12 +29,12 @@
 ***
 ## 🏁 Running the application
 
-This project was initialized with [Create React App](https://github.com/facebook/create-react-app), so make sure you have the latest stable version of [Node.js](https://nodejs.org/en/download/) and [npm](https://www.npmjs.com/) running locally, also the project demo is being hosted with [Vercel](https://projeto7-instagramreact-plum.vercel.app/).
+This project was initialized with [Create React App](https://github.com/facebook/create-react-app), so make sure you have the latest stable version of [Node.js](https://nodejs.org/en/download/) and [npm](https://www.npmjs.com/) running locally.
 
 First, clone this repository on your machine:
 
 ```
-git clone https://github.com/Luca-Panza/projeto7-instagramreact
+git clone https://github.com/Luca-Panza/Instagram-react
 ```
 
 Then, navigate to the project folder and install the dependencies with the following command:
